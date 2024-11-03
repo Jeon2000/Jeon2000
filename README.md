@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm inseok</h1>
 <h3 align="center">I am study Penetration testing</h3>
 
-- 📫 How to reach me **Jeoninseok2000@gmail.com**
+- 📫 How to reach me **Jeoninseok00@gmail.com**
 
 - ⚡ MBTI **ENFP**
 
