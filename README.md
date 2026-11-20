@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 # Inseok Jeon
@@ -16,9 +15,9 @@ Interested in low-level security, operating systems, and vulnerability analysis.
 
 - Focused on **System Security & Vulnerability Research**
 - Interested in **Binary Exploitation and Reverse Engineering**
-- Working with **Python and C**
+- Programming with **Python and C**
 - Exploring **Windows Internals and Kernel Security**
-- Continuously improving through hands-on security research
+- Improving practical skills through security challenges and research
 
 ### Tech Stack
 
@@ -42,6 +41,13 @@ Interested in low-level security, operating systems, and vulnerability analysis.
 - Reverse Engineering
 - Windows Kernel & Driver Security
 
+### Activities & Experience
+
+- **빡공팟 (Pwnable Track)** — Completed
+- **2024 Capstone Design Competition** — Participant
+- **Lisathon CTF** — Participant
+- **Various CTF Competitions** — Participant
+
 ### Currently Exploring
 
 - Memory Corruption & Exploit Development
@@ -53,6 +59,6 @@ Interested in low-level security, operating systems, and vulnerability analysis.
 
 <div align="center">
 
-**Security is a process, not a product.**
+*Keep learning. Keep improving.*
 
 </div>
