@@ -55,7 +55,8 @@ Interested in low-level security, operating systems, and vulnerability analysis.
 - Operating System Internals
 - Windows Driver Security Analysis
 
----
+게인블로그
+---https://inz0i.tistory.com/---
 
 <div align="center">
 
