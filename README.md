@@ -1,62 +1,58 @@
 
+
 <div align="center">
 
-# Hi there, I'm Inseok 👋
+# Inseok Jeon
 
-### Cybersecurity Student | Security Research Enthusiast
+### Cybersecurity | System Security | Vulnerability Research
 
-Interested in **System Security, Binary Exploitation, and Vulnerability Research.**
-
-Currently studying cybersecurity and improving my skills through hands-on practice.
+Interested in low-level security, operating systems, and vulnerability analysis.
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Studying **Information Security**
-- 🔐 Interested in **System Security & Vulnerability Analysis**
-- 💻 Programming with **Python & C**
-- 🛠️ Exploring **Reverse Engineering & Binary Exploitation**
-- 📚 Continuously learning through security research and hands-on labs
+- Focused on **System Security & Vulnerability Research**
+- Interested in **Binary Exploitation and Reverse Engineering**
+- Working with **Python and C**
+- Exploring **Windows Internals and Kernel Security**
+- Continuously improving through hands-on security research
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**Tools & Environment**
+**Environment & Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
 
-### 🔍 Areas of Interest
+### Areas of Interest
 
-```text
-Cybersecurity
- ├── System Security
- ├── Vulnerability Research
- ├── Binary Exploitation (Pwn)
- ├── Reverse Engineering
- └── Windows Internals
-```
+- System Security
+- Vulnerability Analysis
+- Binary Exploitation (Pwn)
+- Reverse Engineering
+- Windows Kernel & Driver Security
 
-### 📖 Currently Learning
+### Currently Exploring
 
-- Memory Corruption & Exploit Techniques
+- Memory Corruption & Exploit Development
 - Assembly Language & Debugging
 - Operating System Internals
-- Vulnerability Discovery and Analysis
+- Windows Driver Security Analysis
 
 ---
 
 <div align="center">
 
-*"Keep learning. Keep breaking. Keep improving."*
+**Security is a process, not a product.**
 
 </div>
